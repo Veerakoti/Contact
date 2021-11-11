@@ -1,0 +1,12 @@
+Hi {FNAME}, {LNAME}
+<br/>
+welcome, registration is almost done please unlock your account 
+<br/>
+
+Temporary Password : {TEMP-Pwd}<br/>
+<br/>
+<a href='http://localhost:8093/Contacts/unlockAcc?email={EMAIL}'>
+Click here to unlock acc</a><br/>
+<br/>
+Thanks<br/>
+Developer.<br/>
