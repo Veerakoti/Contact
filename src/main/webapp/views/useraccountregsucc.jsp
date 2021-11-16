@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>after registration</h2>
+<h2>after registration completed b</h2>
 
 </body>
 </html>
